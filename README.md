@@ -1,4 +1,5 @@
-# cliu_BMS_225A
+- # cliu_BMS_225A
++ # Chang Liu
 
 - this is my repo for BMS 225A -- Data Sceinces My work is organized as follows: 
 
@@ -7,3 +8,4 @@
 - `data` All data used for analysis 
 
 - `figures` All figures produced during analysis
+
